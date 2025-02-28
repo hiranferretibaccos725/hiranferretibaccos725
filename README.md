@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hiran from Brazil 🇧🇷
+- 👀 I’m interested in: Front-end Software Development.
+- 💻 I’m currently working with: Angular, React, TypeScript, JavaScript, HTML, CSS, Figma and Git ...
+- 🏢 I’m collaborating on: https://br.linkedin.com/company/ernstandyoung
+- 📫 How to reach me: (Outlook) hiranferretibaccos725@outlook.com | (LinkedIn)
